@@ -1,0 +1,15 @@
+numpy
+pandas
+regex
+torch
+tqdm
+datasets
+huggingface_hub
+scikit-learn
+sentence-transformers
+transformers
+accelerate
+scipy
+deepl
+google-genai
+lingua-language-detector
